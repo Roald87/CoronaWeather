@@ -8,4 +8,4 @@ I analyzed data from the Netherlands and didn't really find a large effect for t
 ![](sun_hours_netherlands.png)
 Source: [KNMI](https://www.knmi.nl/kennis-en-datacentrum/achtergrond/data-ophalen-vanuit-een-script).
 
-For more details see the [Jupyter notebook](CoronaWeather.ipynb). 
+For more details see the [Jupyter notebook](CoronaWeather.ipynb) or rerun the notebook in [Colab](https://colab.research.google.com/github/Roald87/CoronaWeather/blob/master/CoronaWeather_colab.ipynb#) to see the latest data. Note: Somehow you need to rerun cells 6 and 7 which plot the data a second time before the plots show in Colab.
