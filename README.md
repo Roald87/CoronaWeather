@@ -1,5 +1,5 @@
 # Corona weather effects analyses
-Analysis of the weather in the Netherlands during the 2020 corona crisis. 
+Analysis of the weather in the Netherlands during the 2020 corona crisis. See also the [blog post](https://roald87.github.io/python/2020/04/12/corona-weather.html).
 
 Inspired by this [article](https://www.nature.com/articles/418601a) I was curious if there was any effect on the weather of the reduced air traffic.
 
